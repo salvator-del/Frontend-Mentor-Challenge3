@@ -28,6 +28,4 @@ This repository contains HTML and CSS code for a social links profile card. The 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge).
 - Coded by [Brian Wanjohi](https://github.com/salvator-del).
 
-## Preview
-
-Insert a screenshot or gif showcasing the appearance of the social links profile.
+## Demo⬇️:
