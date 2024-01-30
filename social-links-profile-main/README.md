@@ -24,4 +24,4 @@ This repository contains HTML and CSS code for a social links profile card. The 
 - Coded by [Brian Wanjohi](https://github.com/salvator-del).
 
 ## Demo⬇️:
-# [salvator-profile.netlify.app]
+salvator-profile.netlify.app
