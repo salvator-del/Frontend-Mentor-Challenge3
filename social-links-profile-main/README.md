@@ -8,11 +8,6 @@ This repository contains HTML and CSS code for a social links profile card. The 
 - **Responsive Layout:** Ensures a responsive layout that adapts well to different screen sizes and devices.
 - **Custom Fonts:** Utilizes the Inter font family from Google Fonts for a modern and consistent look.
 
-## Usage
-
-1. Clone the repository: `git clone [repository-url]`
-2. Open `index.html` in a web browser to view the social links profile.
-
 ## Structure
 
 - **index.html:** The main HTML file providing the structure of the webpage.
